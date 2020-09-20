@@ -4,3 +4,4 @@ while count<array.length do
   array[value_to_find]
   counter += 1
 end
+end
